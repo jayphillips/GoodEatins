@@ -10,6 +10,8 @@ import UIKit
 
 class RecipiesSelectionViewController: UIViewController {
     
+    @IBOutlet weak var collectionView: UICollectionView!
+    
     var selectedCategory: String!
 
     override func viewDidLoad() {
