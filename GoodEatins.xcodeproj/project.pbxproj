@@ -18,6 +18,7 @@
 		B53EA0A923274F620049E9FE /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53EA0A823274F620049E9FE /* CategoryCell.swift */; };
 		B53EA0AB2327549F0049E9FE /* RecipiesSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53EA0AA2327549F0049E9FE /* RecipiesSelectionViewController.swift */; };
 		B53EA0AF232759560049E9FE /* RecipeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53EA0AE232759560049E9FE /* RecipeCell.swift */; };
+		B5F6E07B232893A50032F48B /* RecipeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F6E07A232893A50032F48B /* RecipeDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		B53EA0A823274F620049E9FE /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
 		B53EA0AA2327549F0049E9FE /* RecipiesSelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipiesSelectionViewController.swift; sourceTree = "<group>"; };
 		B53EA0AE232759560049E9FE /* RecipeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCell.swift; sourceTree = "<group>"; };
+		B5F6E07A232893A50032F48B /* RecipeDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 			children = (
 				B53EA06F2324B0C70049E9FE /* CategoryViewController.swift */,
 				B53EA0AA2327549F0049E9FE /* RecipiesSelectionViewController.swift */,
+				B5F6E07A232893A50032F48B /* RecipeDetailViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B532B7E123272F7C007FAAE6 /* DataSet.swift in Sources */,
+				B5F6E07B232893A50032F48B /* RecipeDetailViewController.swift in Sources */,
 				B53EA0AB2327549F0049E9FE /* RecipiesSelectionViewController.swift in Sources */,
 				B53EA0702324B0C70049E9FE /* CategoryViewController.swift in Sources */,
 				B53EA0AF232759560049E9FE /* RecipeCell.swift in Sources */,

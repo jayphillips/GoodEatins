@@ -13,7 +13,6 @@ class RecipeCell: UICollectionViewCell {
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        
         recipeImage.layer.cornerRadius = 10
     }
     
